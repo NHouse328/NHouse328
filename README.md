@@ -1,4 +1,4 @@
-## Oi eu sou o Gabriel Casanova, programador em COBOL e Java!
+## Oi eu sou o Gabriel Casanova, trabalho com programação em Java e COBOL!
 <div align="center">
   <a href="https://github.com/NHouse328">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NHouse328&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
